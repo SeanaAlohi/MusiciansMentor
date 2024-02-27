@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CA0B2084-78D6-485E-AD58-A0A7EC75C0A0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F662988C-19E2-4B56-9DDB-F1F23B9F5CA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Musicians_Friend_Final/Microphone.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "microphoneAccess()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F662988C-19E2-4B56-9DDB-F1F23B9F5CA1 - b11791b27a57809b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Musicians_Friend_Final.Recorder.microphoneAccess() -&gt; ()"
+                  moduleName = "Musicians_Friend_Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mnazari2/Documents/Musicians_Friend_Final/Musicians_Friend_Final/Microphone.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "F662988C-19E2-4B56-9DDB-F1F23B9F5CA1 - 4a121f4ea6c91bf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in Musicians_Friend_Final.Recorder.microphoneAccess() -&gt; ()"
+                  moduleName = "Musicians_Friend_Final"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mnazari2/Documents/Musicians_Friend_Final/Musicians_Friend_Final/Microphone.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
